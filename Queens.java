@@ -14,7 +14,7 @@ import javax.imageio.ImageIO;
  * @author (your name)
  * @version (a version number or a date)
  */
-public class Queens
+public class QueensGraphics
 {
     private static int[][] board;    
     private static JLayeredPane layeredPane;
